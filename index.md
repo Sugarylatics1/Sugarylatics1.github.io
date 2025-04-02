@@ -12,11 +12,8 @@ header:
       url: "/portfolio/"
     - label: "Contact Me"
       url: "/contact/"
-feature_row:
-  - image_path: /assets/images/va.jpg
-    title: "Virtual Assistance"
-    excerpt: "Helping businesses with admin tasks, scheduling, and organization."
-    url: "/virtual-assistance/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 ---
+
+## About Me
+I’m Jimmir Miranda, a **Virtual Assistant, Tech Enthusiast, and Problem Solver**.  
+I specialize in **social media management, cybersecurity, and web development**.
