@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jimmir Miranda"
   avatar : "/assets/images/Profile-picture.jpg"
-  bio    : "I'm a jack of all trades. Social Media Manager | Virtual Assistant | Web Developer | Malware Analyst | Composer | Audio Engineer"
+  bio    : "I'm a jack of all trades. Social Media Manager || Virtual Assistant || Web Developer || Malware Analyst || Composer || Audio Engineer"
   links:
     - label: "Twitch"
       icon: "fa-brands fa-twitch"
