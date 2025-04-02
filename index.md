@@ -17,3 +17,4 @@ header:
 ## About Me
 I’m Jimmir Miranda, a **Virtual Assistant, Tech Enthusiast, and Problem Solver**.  
 I specialize in **social media management, cybersecurity, and web development**.
+Test
