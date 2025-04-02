@@ -75,6 +75,7 @@ author:
       url: "https://www.instagram.com/chanjimmir/"
 
 footer:
+  copyright: "© 2024 Your Name"
   links:
     - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
