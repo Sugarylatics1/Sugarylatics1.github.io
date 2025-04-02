@@ -19,10 +19,4 @@ feature_row:
     url: "/virtual-assistance/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/tech.jpg
-    title: "Tech Support"
-    excerpt: "Providing IT solutions and troubleshooting."
-    url: "/tech-support/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 ---
