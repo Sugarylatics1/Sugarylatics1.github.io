@@ -32,7 +32,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _pages
+  - index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -89,14 +89,14 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
       layout: splash
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
