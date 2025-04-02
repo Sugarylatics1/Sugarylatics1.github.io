@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: My Portfolio
-email:
+email: jimmirmirnda@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jimmir Miranda's Portfolio!
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+twitter_username: xyalip
+github_username: Sugarylatics1
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -56,34 +56,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Jimmir Miranda"
+  avatar : "/assets/images/Profile-picture.jpg"
+  bio    : "I'm a jack of all trades. Social Media Manager | Virtual Assistant | Web Developer | Malware Analyst | Composer | Audio Engineer"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Twitch"
+      icon: "fa-brands fa-twitch"
+      url: "https://twitch.tv/kawaritaito"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/xyalip"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Sugarylatics1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/chanjimmir/"
 
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/xyalip"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Sugarylatics1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/chanjimmir/"
 
 defaults:
   # _posts
