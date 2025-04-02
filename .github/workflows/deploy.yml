@@ -17,6 +17,11 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.7'  # Jekyll needs Ruby
+        
+    - name: Install dependencies
+      run: |
+        gem install jekyll bundler
+        bundle install
 
     - name: Build site
       run: |
