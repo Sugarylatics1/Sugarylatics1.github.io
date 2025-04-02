@@ -1,0 +1,36 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - master  # or whatever branch you are working on
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Ruby for Jekyll
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.7' # Jekyll requires Ruby
+
+    - name: Install dependencies
+      run: |
+        gem install jekyll bundler
+        bundle install
+
+    - name: Build site
+      run: |
+        bundle exec jekyll build
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site  # The folder containing your built site
+        publish_branch: gh-pages
+        target_repo: Sugarylatics1/Sugarylatics.github.io  # The public repository
