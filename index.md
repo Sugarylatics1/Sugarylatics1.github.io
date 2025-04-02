@@ -3,6 +3,7 @@ layout: splash
 title: "Welcome to My Portfolio"
 subtitle: "Virtual Assistant | Tech Enthusiast | Problem Solver"
 permalink: /
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/banner.jpg
@@ -12,6 +13,8 @@ header:
       url: "/portfolio/"
     - label: "Contact Me"
       url: "/contact/"
+
+      
 ---
 
 ## About Me
