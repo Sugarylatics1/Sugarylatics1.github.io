@@ -2,7 +2,7 @@
 layout: splash
 title: "Virtual Assistant Portfolio"
 header:
-  overlay_color:"#000"
+  overlay_color: "#000"
   overlay_image: "/assets/images/banner.jpg"
   overlay_filter: 0.5
   tagline: "Efficient. Reliable. Professional."
