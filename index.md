@@ -16,7 +16,7 @@ header:
 
 <!-- Profile Picture Above Title -->
 <div class="profile-picture-container">
-  <img class="profile-picture" src="/assets/images/profile.jpg" alt="Profile Picture">
+  <img class="profile-picture" src="/assets/images/Profile-picture.jpg" alt="Profile Picture">
 </div>
 
 # Welcome to My Portfolio
