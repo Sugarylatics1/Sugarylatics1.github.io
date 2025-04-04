@@ -1,21 +1,22 @@
 /* Profile Picture Styling */
 .profile-picture-container {
   position: absolute;
-  top: 20px; /* Adjust to change the vertical distance from the top */
+  top: 30px; /* Adjust this to move the picture vertically */
   left: 50%;
   transform: translateX(-50%); /* Center horizontally */
-  z-index: 2; /* Make sure it appears above the overlay */
+  z-index: 2; /* Ensure it appears above the overlay */
+  max-width: 100%; /* Prevent it from overflowing the container */
 }
 
 .profile-picture {
   border-radius: 50%; /* Circular shape */
-  width: 180px; /* Adjust the width */
-  height: 180px; /* Keep it square for the circle */
+  width: 150px; /* Adjust width to your desired size */
+  height: 150px; /* Keep it square for a circular shape */
   object-fit: cover; /* Ensures it doesn't stretch */
   border: 3px solid white; /* Optional: add a border around the image */
 }
 
 /* Adjust the title's position to not overlap with the profile picture */
 header .title {
-  margin-top: 140px; /* Adjust this value as needed */
+  margin-top: 200px; /* Increase this value to move the title lower, if necessary */
 }
