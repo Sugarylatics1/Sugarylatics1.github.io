@@ -1,22 +1,34 @@
-/* Profile Picture Styling */
+/* Container for the header content */
+.header-content {
+  display: flex;
+  align-items: center; /* Vertically center the items */
+  justify-content: space-between; /* Align the title and image at opposite ends */
+  position: relative; /* To ensure proper placement */
+  padding: 20px;
+  max-width: 1200px; /* Optional: Adjust this to fit your layout */
+  margin: 0 auto; /* Center the container */
+}
+
+/* Title styling */
+.header-content .title {
+  font-size: 2.5rem; /* Adjust this size as needed */
+  color: white; /* White text color */
+  margin: 0;
+  padding-right: 20px; /* Space between title and image */
+}
+
+/* Profile picture container */
 .profile-picture-container {
-  position: absolute;
-  top: 30px; /* Adjust this to move the picture vertically */
-  left: 50%;
-  transform: translateX(-50%); /* Center horizontally */
-  z-index: 2; /* Ensure it appears above the overlay */
-  max-width: 100%; /* Prevent it from overflowing the container */
+  position: relative;
+  width: 150px; /* Adjust the size as necessary */
+  height: 150px;
 }
 
+/* Profile picture styling */
 .profile-picture {
+  width: 100%;
+  height: 100%;
   border-radius: 50%; /* Circular shape */
-  width: 150px; /* Adjust width to your desired size */
-  height: 150px; /* Keep it square for a circular shape */
-  object-fit: cover; /* Ensures it doesn't stretch */
-  border: 3px solid white; /* Optional: add a border around the image */
-}
-
-/* Adjust the title's position to not overlap with the profile picture */
-header .title {
-  margin-top: 200px; /* Increase this value to move the title lower, if necessary */
+  object-fit: cover; /* Ensure image doesn’t stretch */
+  border: 3px solid white; /* Optional: add a border */
 }
