@@ -1,10 +1,10 @@
 ---
 layout: splash
-permalink: /
-author_profile: true
 title: "Virtual Assistant Portfolio"
 header:
-  image: "/assets/images/banner.jpg"
+  overlay_color:"#000"
+  overlay_image: "/assets/images/banner.jpg"
+  overlay_filter: 0.5
   tagline: "Efficient. Reliable. Professional."
   actions:
     - label: "Contact Me"
@@ -15,7 +15,7 @@ header:
 
 # Welcome to My Virtual Assistant Portfolio
 
-Hello! I'm [Your Name], a professional virtual assistant with a passion for helping businesses thrive. Beyond administrative work, I have expertise in **music composition**, **audio engineering**, and **video editing**, offering a versatile skill set for creative and business projects.
+Hello! I'm **Jimmir Miranda**, a professional virtual assistant with a passion for helping businesses thrive. Beyond administrative work, I have expertise in **music composition**, **audio engineering**, and **video editing**, offering a versatile skill set for creative and business projects.
 
 ## About Me
 
