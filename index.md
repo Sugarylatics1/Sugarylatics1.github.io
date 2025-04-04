@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 title: "Virtual Assistant Portfolio"
 header:
-  image: "/assets/images/Profile-picture.jpg"
+  image: "/assets/images/banner.jpg"
   tagline: "Efficient. Reliable. Professional."
   actions:
     - label: "Contact Me"
