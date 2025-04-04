@@ -14,6 +14,11 @@ header:
       url: "/work"
 ---
 
+<!-- Profile Picture Above Title -->
+<div class="profile-picture-container">
+  <img class="profile-picture" src="/assets/images/profile.jpg" alt="Profile Picture">
+</div>
+
 # Welcome to My Portfolio
 
 Hello! I'm **Jimmir Miranda**, a professional virtual assistant with a passion for helping businesses thrive. Beyond administrative work, I have expertise in **music composition**, **audio engineering**, and **video editing**, offering a versatile skill set for creative and business projects.
