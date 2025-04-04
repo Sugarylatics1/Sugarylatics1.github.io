@@ -20,8 +20,6 @@ header:
   </div>
 </div>
 
-# Welcome to My Portfolio
-
 Hello! I'm **Jimmir Miranda**, a professional virtual assistant with a passion for helping businesses thrive. Beyond administrative work, I have expertise in **music composition**, **audio engineering**, and **video editing**, offering a versatile skill set for creative and business projects.
 
 ## About Me
