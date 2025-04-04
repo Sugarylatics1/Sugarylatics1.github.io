@@ -6,16 +6,13 @@ header:
   overlay_image: "/assets/images/banner.jpg"
   overlay_filter: 0.5
   tagline: "Efficient. Reliable. Professional."
+  profile_picture:  "/assets/images/Profile-picture.jpg"
   actions:
     - label: "Contact Me"
       url: "#contact-me"
     - label: "See My Work"
       url: "/work"
 ---
-
-<div class="profile-container">
-  <img src="/assets/images/Profile-picture.jpg" alt="Profile Picture" class="profile-picture">
-</div>
 
 # Welcome to My Portfolio
 
