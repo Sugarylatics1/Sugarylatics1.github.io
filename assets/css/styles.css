@@ -1,0 +1,13 @@
+.profile-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;  /* Adds space below the profile picture */
+}
+
+.profile-picture {
+  width: 120px; /* Adjust the width */
+  height: 120px; /* Keep height same as width for a circle */
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff; /* Optional: adds border around the circle */
+}
