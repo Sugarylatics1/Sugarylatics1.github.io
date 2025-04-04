@@ -2,11 +2,11 @@
 .header-content {
   display: flex;
   align-items: center; /* Vertically center the items */
-  justify-content: space-between; /* Align the title and image at opposite ends */
-  position: relative; /* To ensure proper placement */
+  justify-content: flex-start; /* Align the title and image at the left */
+  position: relative;
   padding: 20px;
-  max-width: 1200px; /* Optional: Adjust this to fit your layout */
-  margin: 0 auto; /* Center the container */
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* Title styling */
@@ -20,15 +20,15 @@
 /* Profile picture container */
 .profile-picture-container {
   position: relative;
-  width: 150px; /* Adjust the size as necessary */
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
 
 /* Profile picture styling */
 .profile-picture {
   width: 100%;
   height: 100%;
-  border-radius: 50%; /* Circular shape */
-  object-fit: cover; /* Ensure image doesn’t stretch */
-  border: 3px solid white; /* Optional: add a border */
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
 }
