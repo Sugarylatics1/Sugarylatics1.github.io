@@ -15,9 +15,8 @@ header:
 ---
 
 <div class="header-content">
-  <h1 class="title">My Portfolio</h1>
   <div class="profile-picture-container">
-    <img class="profile-picture" src="/assets/images/profile.jpg" alt="Jimmir Miranda">
+    <img class="profile-picture" src="/assets/images/Profile-picture.jpg" alt="Jimmir Miranda">
   </div>
 </div>
 
