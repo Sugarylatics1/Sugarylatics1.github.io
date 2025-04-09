@@ -20,6 +20,10 @@ header:
   </div>
 </div>
 
+<meta name="description" content="Hello! I’m Jimmir Miranda, a professional virtual assistant with a passion for helping businesses thrive. Beyond administrative work, I have expertise in music composition, audio engineering, and video editing, offering a versatile skill set for creative and business projects."> 
+<meta name="keywords" content="virtual assistant, music, video editing, cybersecurity, etc.">
+<meta name="author" content="Jimmir Miranda">
+
 Hello! I'm **Jimmir Miranda**, a professional virtual assistant with a passion for helping businesses thrive. Beyond administrative work, I have expertise in **music composition**, **audio engineering**, and **video editing**, offering a versatile skill set for creative and business projects.
 
 ## About Me
