@@ -49,5 +49,4 @@ With a background in **art school** (specializing in **music**), I offer more th
 Interested in working together? Feel free to reach out to me:
 
 - **Email**: [jimmirmirnda@gmail.com](mailto:jimmirmirnda@gmail.com)
-- **Phone**: +639957906664
 
