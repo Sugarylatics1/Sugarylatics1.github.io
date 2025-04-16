@@ -90,10 +90,4 @@ I studied **music composition and audio engineering** at art school for 2 years,
 
 ## 📞 Let’s Work Together!  
 
-- **Email**: [jimmirmirnda@gmail.com](mailto:jimmirmirnda@gmail.com)  
-- **GitHub**: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)  
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-Would you like me to turn this into a **GitHub Pages-ready `index.md` splash page** next? Or want layout suggestions for showcasing both dev & VA work in sections or tabs?
+- **Email**: [sugarylatics1@gmail.com](mailto:sugarylatics1@gmail.com)  
