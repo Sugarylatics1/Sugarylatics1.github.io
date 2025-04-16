@@ -9,9 +9,7 @@ header:
   profile_picture:  "/assets/images/Profile-picture.jpg"
   actions:
     - label: "Contact Me"
-      url: "#contact-me"
-    - label: "See My Work"
-      url: "/work"
+      url: "#-lets-work-together"
 ---
 
 <div class="header-content">
