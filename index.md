@@ -24,33 +24,76 @@ header:
 <meta name="keywords" content="virtual assistant, music, video editing, cybersecurity, etc.">
 <meta name="author" content="Jimmir Miranda">
 
-Hello! I'm **Jimmir Miranda**, a professional virtual assistant with a passion for helping businesses thrive. Beyond administrative work, I have expertise in **music composition**, **audio engineering**, and **video editing**, offering a versatile skill set for creative and business projects.
+## 🔹 About Me  
 
-## About Me
+Hi, I’m **Jimmir Miranda**—a **full-stack web developer** with a strong creative background in **music composition**, **audio engineering**, and **video editing**. I also offer professional **virtual assistant services**, making me a versatile partner for businesses looking for both technical and operational support.
 
-I am a highly organized and detail-oriented virtual assistant with a diverse skill set. With experience in **administrative support**, **social media management**, and **customer service**, I am committed to making your business operations smoother and more efficient. Additionally, I have two years of formal music training, specializing in **music composition** and **audio engineering**. I also offer **video editing** services, making me the perfect choice for clients who need a combination of both business and creative support.
+I specialize in crafting web applications using technologies like **React**, **Spring Boot**, **ASP.NET Core**, and **MySQL**, while also supporting clients with day-to-day business needs.
 
-## Services Offered
+---
 
-Here are the core services I offer:
+## 🧠 My Skill Set at a Glance
 
-- **Administrative Support**: Calendar management, data entry, email handling, etc.
-- **Social Media Management**: Content scheduling, responding to inquiries, and creating posts.
-- **Customer Service**: Managing customer inquiries, order processing, and support tasks.
-- **Content Creation**: Writing blog posts, website content, and newsletters.
-- **Project Management**: Organizing tasks, deadlines, and communication.
-- **Research**: Gathering information and compiling reports.
-- **Music Composition**: Creating original music for videos, ads, and projects.
-- **Audio Engineering**: Mixing, mastering, and sound design for recordings, podcasts, and media.
-- **Video Editing**: Editing footage, creating montages, and enhancing videos for various platforms.
+| Web Development Stack | Business & Creative Skills |
+|-----------------------|----------------------------|
+| React, HTML, CSS, Tailwind | Calendar & Email Management |
+| Node.js, Express, MongoDB | Social Media Scheduling & Content |
+| Spring Boot, Spring MVC, MySQL | Customer Support & Order Handling |
+| ASP.NET, .NET Core, MVC | Research, Reports, Blog Writing |
+| REST APIs, Git, GitHub, CI/CD | Project Coordination & Documentation |
+| PostgreSQL, Webpack, SEO | Music Production & Audio Engineering |
+| Vercel, Netlify, Heroku | Video Editing & Post-production |
 
-## Music & Video Expertise
+---
 
-With a background in **art school** (specializing in **music**), I offer more than just administrative skills. My training in **music composition** and **audio engineering** allows me to provide high-quality **soundtrack composition**, **audio mixing**, and **mastering** services for your media projects. In addition, I am skilled in **video editing**, helping create polished videos for promotional content, social media, and more. Whether it's editing raw footage, color correction, or adding sound effects, I bring a professional touch to every project.
+## 💻 Full-Stack Web Development Services  
 
-## Contact Me
+- **Custom Websites & Web Apps**  
+  Build business portals, portfolios, dashboards, and e-commerce platforms using modern tech stacks.
 
-Interested in working together? Feel free to reach out to me:
+- **Frontend Development**  
+  Using **React**, **Tailwind CSS**, and **responsive design** principles.
 
-- **Email**: [jimmirmirnda@gmail.com](mailto:jimmirmirnda@gmail.com)
+- **Backend Development**  
+  - **Java Spring Boot & Spring MVC**  
+  - **ASP.NET Core with MVC architecture**  
+  - **Node.js with Express**  
+  - **MySQL**, **PostgreSQL**, and **MongoDB** databases
 
+- **Enterprise Integration**  
+  REST APIs, database connectivity, authentication systems, and role-based access control.
+
+- **Deployment & CI/CD**  
+  GitHub Actions, Docker (optional), and deployment to **Vercel**, **Heroku**, or **Azure**.
+
+- **Creative Development Projects**  
+  Audio-reactive visuals, integrated podcast/music players, and creative CMS setups.
+
+---
+
+## 📋 Virtual Assistant Services  
+
+- **Admin Support**: Inbox handling, calendar scheduling, data entry  
+- **Customer Care**: Basic support, order processing, FAQ management  
+- **Content Management**: Blog writing, editing, formatting  
+- **Social Media**: Scheduling posts, light design, caption writing  
+- **Project Coordination**: Task tracking, deadline reminders, and documentation  
+- **Creative Help**: Audio mastering, podcast polishing, and short-form video edits  
+
+---
+
+## 🎨 Creative Edge  
+
+I studied **music composition and audio engineering** at art school for 2 years, and I bring that creative edge to my tech projects. Need background music, audio branding, or an engaging promo video for your new app or service? I’ve got it covered.
+
+---
+
+## 📞 Let’s Work Together!  
+
+- **Email**: [jimmirmirnda@gmail.com](mailto:jimmirmirnda@gmail.com)  
+- **GitHub**: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)  
+- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+Would you like me to turn this into a **GitHub Pages-ready `index.md` splash page** next? Or want layout suggestions for showcasing both dev & VA work in sections or tabs?
