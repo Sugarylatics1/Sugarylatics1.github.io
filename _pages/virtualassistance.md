@@ -2,6 +2,7 @@
 title: "Virtual Assistance"
 permalink: /virtualassistant/
 author_profile: true
+layout: single
 ---
 
 ## 📋 Virtual Assistant & Business Support
