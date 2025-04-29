@@ -2,6 +2,7 @@
 title: "Posts by Category"
 permalink: /webdev/
 author_profile: true
+layout: single
 ---
 ## 💻 Web Development & Automation Services
 
