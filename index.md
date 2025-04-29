@@ -42,7 +42,7 @@ I’m currently building a strong remote freelance business and scaling through 
 | Node.js, Express, MongoDB | Social Media: Posts, captions, design |
 | Spring Boot, Spring MVC, MySQL | Customer support, FAQs, order handling |
 | ASP.NET, .NET Core, MVC | Research, reports, SEO blog writing |
-| REST APIs, Git, GitHub, CI/CD | Podcast/audio cleanup, music editing |
+| REST APIs, Git, GitHub, CI/CD | Audio cleanup, music editing |
 | PostgreSQL, Webpack, SEO | Short-form video edits for brands |
 | Vercel, Netlify, Heroku, GitHub Pages | Creative content production |
 | **Electron + React** | Desktop app design & prototyping |
@@ -74,7 +74,7 @@ I’m currently building a strong remote freelance business and scaling through 
 - Blog writing, basic SEO formatting, and content updates  
 - Customer service, order tracking, and client support  
 - Social media posting, Canva graphics, and caption writing  
-- Creative assistance: audio mastering, video trimming, YouTube uploads  
+- Creative assistance: Audio mixing and mastering, and video editing 
 - Reports, minutes, SOP documentation, and project follow-up
 
 ---
