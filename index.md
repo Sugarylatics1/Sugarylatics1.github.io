@@ -20,17 +20,17 @@ header:
 <meta name="keywords" content="virtual assistant, music, video editing, cybersecurity, etc.">
 <meta name="author" content="Jimmir Miranda">
 
----
+
 
 ## 👋 Welcome!
 
-Whether you're a business owner looking to build an app, a startup needing admin support, or a creator seeking world-class audio — I'm here to help.
+- Whether you're a business owner looking to build an app, a startup needing admin support, or a creator seeking world-class audio — I'm here to help.
 
----
+
 
 ## 💬 Motto
 
 > **"Every project I take on is a partnership. Your success = my success."**
 
----  
+
 
