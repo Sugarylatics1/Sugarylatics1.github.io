@@ -2,6 +2,7 @@
 title: "Music"
 permalink: /music/
 author_profile: true
+layout: single
 ---
 
 ## 🎨 Music Production & Audio Engineering
