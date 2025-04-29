@@ -7,9 +7,6 @@ header:
   overlay_filter: 0.5
   tagline: "Efficient. Reliable. Professional."
   profile_picture:  "/assets/images/Profile-picture.jpg"
-  actions:
-    - label: "Contact Me"
-      url: "#-lets-work-together"
 ---
 
 <div class="header-content">
