@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "My Portfolio"
+title: "I Want YOU to Succeed."
 header:
   overlay_color: "#000"
   overlay_image: "/assets/images/banner.jpg"
@@ -22,70 +22,99 @@ header:
 <meta name="keywords" content="virtual assistant, music, video editing, cybersecurity, etc.">
 <meta name="author" content="Jimmir Miranda">
 
-## 🔹 About Me  
+## 🔹 About Me
 
-Hi, I’m **Jimmir Miranda**—a **full-stack web developer** with a strong creative background in **music composition**, **audio engineering**, and **video editing**. I also offer professional **virtual assistant services**, making me a versatile partner for businesses looking for both technical and operational support.
+Hi, I’m **Jimmir Miranda** — a forward-thinking **full-stack web developer** and **creative problem solver**.
 
-I specialize in crafting web applications using technologies like **React**, **Spring Boot**, **ASP.NET Core**, and **MySQL**, while also supporting clients with day-to-day business needs.
+I help businesses, startups, and solo entrepreneurs build **scalable digital solutions** and run their operations more efficiently. Whether you need a custom-built app, a reliable virtual assistant, or a creative asset that stands out — I deliver with precision and care.
 
----
+My background in **music composition, audio engineering**, and **video editing** gives me a unique creative edge, while my technical expertise allows me to develop full-stack applications using modern frameworks like **Next.js, React, TRPC**, and **Spring Boot**.
 
-## 🧠 My Skill Set at a Glance
-
-| Web Development Stack | Business & Creative Skills |
-|-----------------------|----------------------------|
-| React, HTML, CSS, Tailwind | Calendar & Email Management |
-| Node.js, Express, MongoDB | Social Media Scheduling & Content |
-| Spring Boot, Spring MVC, MySQL | Customer Support & Order Handling |
-| ASP.NET, .NET Core, MVC | Research, Reports, Blog Writing |
-| REST APIs, Git, GitHub, CI/CD | Project Coordination & Documentation |
-| PostgreSQL, Webpack, SEO | Music Production & Audio Engineering |
-| Vercel, Netlify, Heroku | Video Editing & Post-production |
+I’m currently building a strong remote freelance business and scaling through automation, smart client systems, and results-driven execution.
 
 ---
 
-## 💻 Full-Stack Web Development Services  
+## 🧠 What I Bring to the Table
 
-- **Custom Websites & Web Apps**  
-  Build business portals, portfolios, dashboards, and e-commerce platforms using modern tech stacks.
-
-- **Frontend Development**  
-  Using **React**, **Tailwind CSS**, and **responsive design** principles.
-
-- **Backend Development**  
-  - **Java Spring Boot & Spring MVC**  
-  - **ASP.NET Core with MVC architecture**  
-  - **Node.js with Express**  
-  - **MySQL**, **PostgreSQL**, and **MongoDB** databases
-
-- **Enterprise Integration**  
-  REST APIs, database connectivity, authentication systems, and role-based access control.
-
-- **Deployment & CI/CD**  
-  GitHub Actions, Docker (optional), and deployment to **Vercel**, **Heroku**, or **Azure**.
-
-- **Creative Development Projects**  
-  Audio-reactive visuals, integrated podcast/music players, and creative CMS setups.
+| Web Dev & Tech Stack | Business Ops & Creative |
+|----------------------|--------------------------|
+| React, **Next.js**, Tailwind, **TRPC** | Admin: Email, calendar, documentation |
+| Node.js, Express, MongoDB | Social Media: Posts, captions, design |
+| Spring Boot, Spring MVC, MySQL | Customer support, FAQs, order handling |
+| ASP.NET, .NET Core, MVC | Research, reports, SEO blog writing |
+| REST APIs, Git, GitHub, CI/CD | Podcast/audio cleanup, music editing |
+| PostgreSQL, Webpack, SEO | Short-form video edits for brands |
+| Vercel, Netlify, Heroku, GitHub Pages | Creative content production |
+| **Electron + React** | Desktop app design & prototyping |
 
 ---
 
-## 📋 Virtual Assistant Services  
+## 💻 Web Development & Automation Services
 
-- **Admin Support**: Inbox handling, calendar scheduling, data entry  
-- **Customer Care**: Basic support, order processing, FAQ management  
-- **Content Management**: Blog writing, editing, formatting  
-- **Social Media**: Scheduling posts, light design, caption writing  
-- **Project Coordination**: Task tracking, deadline reminders, and documentation  
-- **Creative Help**: Audio mastering, podcast polishing, and short-form video edits  
+- **Full-Stack App Development**  
+  Scalable apps using **Next.js + TRPC**, **Spring Boot**, or **Node.js** — with CI/CD and API integration.
+
+- **Custom Websites & Landing Pages**  
+  Built for performance, SEO, and responsiveness using **React**, **Tailwind**, and modern design practices.
+
+- **Internal Tools & Dashboards**  
+  Streamline operations with custom CRM, inventory, or analytics dashboards.
+
+- **Automation & Bots**  
+  Save time and increase productivity by automating emails, reports, lead capture, and more.
+
+- **Deployment Support**  
+  Projects deployed on **Vercel**, **Netlify**, **Heroku**, or **GitHub Pages** — no paid hosting required.
 
 ---
 
-## 🎨 Creative Edge  
+## 📋 Virtual Assistant & Business Support
 
-I studied **music composition and audio engineering** at art school for 2 years, and I bring that creative edge to my tech projects. Need background music, audio branding, or an engaging promo video for your new app or service? I’ve got it covered.
+- Inbox management, scheduling, and Google Workspace coordination  
+- Blog writing, basic SEO formatting, and content updates  
+- Customer service, order tracking, and client support  
+- Social media posting, Canva graphics, and caption writing  
+- Creative assistance: audio mastering, video trimming, YouTube uploads  
+- Reports, minutes, SOP documentation, and project follow-up
 
 ---
 
-## 📞 Let’s Work Together!  
+## 🎨 Music Production & Audio Engineering
 
-- **Email**: [sugarylatics1@gmail.com](mailto:sugarylatics1@gmail.com)  
+I specialize in **music composition**, **production**, and **engineering** — with a focused background in creating polished, professional audio experiences for a range of modern music projects.
+
+I don’t just “edit audio” — I **compose**, **arrange**, **mix**, and **master** tracks with creative direction and technical precision.
+
+Whether you're an indie artist, a content creator, or a business needing original music — I can help with:
+
+- 🎵 **Custom Music Composition** — Background scores, themes, or intros  
+- 🎧 **Mixing & Mastering** — Industry-standard processing for clean, loud, and punchy results  
+- 🎹 **Full Music Production** — From concept to final track  
+- 📀 **Remastering & Track Polishing** — Fix old demos or give life to unfinished ideas
+
+---
+
+### ✨ Why It Matters
+
+With years of hands-on experience and formal training, I bring a musician’s ear and an engineer’s attention to detail. Whether you're building a brand, releasing a single, or starting a YouTube channel — great music can set you apart.
+
+---
+
+## 🚀 Want to Work With Me?
+
+I offer flexible packages, honest rates, and I’m focused on **delivering results that scale**.
+
+If you need a **developer**, a **VA**, or a **creative collaborator**, I’d love to hear from you.
+
+- 📧 **Email me**: [sugarylatics1@gmail.com](mailto:sugarylatics1@gmail.com)  
+- 💼 Portfolio: [Sugarylatics1.github.io](sugarylatics1.github.io)
+- 🧠 Projects: Request private demos or walkthroughs through my email.
+
+---
+
+## 💬 Motto
+
+> **"Every project I take on is a partnership. Your success = my success."**
+
+---  
+
